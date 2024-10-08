@@ -9,7 +9,7 @@ body {
 
 /* Estilos para el encabezado */
 header {
-    background-color: #333;
+    background-color: #1c41e7;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -64,7 +64,7 @@ aside {
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #333;
+    background-color: #287c25;
     color: white;
     text-align: center;
     padding: 10px 0;
